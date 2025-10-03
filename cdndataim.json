@@ -1,4 +1,5 @@
 {
+  "code":0,
   "data":[
     "http://103.45.173.170:11111/data/upload/cryptoData",
     "http://103.45.173.171:11111/data/upload/cryptoData",
@@ -15,5 +16,5 @@
     "https://cos-gz-1375854936.cos.ap-guangzhou.myqcloud.com/cos-gz-1375854936/domain/im-mg/cryptoData",
     "https://cos-sh-1375854936.cos.ap-shanghai.myqcloud.com/cos-sh-1375854936/domain/im-mg/cryptoData",
     "https://cos-xg-1375854936.cos.ap-hongkong.myqcloud.com/cos-xg-1375854936/domain/im-mg/cryptoData"
-  ]
+  ],
 }
