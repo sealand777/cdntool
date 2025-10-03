@@ -1,1 +1,19 @@
-
+{
+  "data":[
+    "http://103.45.173.170:11111/data/upload/cryptoData",
+    "http://103.45.173.171:11111/data/upload/cryptoData",
+    "http://103.45.173.172:11111/data/upload/cryptoData",
+    "http://103.45.173.173:11111/data/upload/cryptoData",
+    "http://103.45.173.174:11111/data/upload/cryptoData",
+    "http://103.45.173.175:11111/data/upload/cryptoData",
+    "http://103.45.173.176:11111/data/upload/cryptoData",
+    "http://103.45.173.177:11111/data/upload/cryptoData",
+    "http://103.45.173.178:11111/data/upload/cryptoData",
+    "http://103.45.173.179:11111/data/upload/cryptoData",
+    "https://cos-bj-1375854936.cos.ap-beijing.myqcloud.com/cos-bj-1375854936/domain/im-mg/cryptoData",
+    "https://cos-cq-1375854936.cos.ap-chongqing.myqcloud.com/cos-cq-1375854936/domain/im-mg/cryptoData",
+    "https://cos-gz-1375854936.cos.ap-guangzhou.myqcloud.com/cos-gz-1375854936/domain/im-mg/cryptoData",
+    "https://cos-sh-1375854936.cos.ap-shanghai.myqcloud.com/cos-sh-1375854936/domain/im-mg/cryptoData",
+    "https://cos-xg-1375854936.cos.ap-hongkong.myqcloud.com/cos-xg-1375854936/domain/im-mg/cryptoData",
+  ]
+}
